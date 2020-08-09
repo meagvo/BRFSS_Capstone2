@@ -1,0 +1,8 @@
+Model Metrics
+DecisionTreeClassifier(criterion='entropy', max_depth=5)
+Accuracy: 0.8691240422447711
+Precision: 0.700832799487508
+
+Confusion Matrix:
+[[11497   467]
+ [ 1429  1094]]
