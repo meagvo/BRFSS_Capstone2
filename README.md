@@ -3,9 +3,10 @@ Second capstone from Springboard data science bootcamp.
 
 
 ## Problem statement formation:
-### How can the NIMH decrease the median time delay for mental health treatment through the
-development of an app that screens individuals for mental illnesses?
-## Context: According to the NIMH, one in five Americans live with a mental illness. This can include both
+### How can the NIMH decrease the median time delay for mental health treatment through the development of an app that screens individuals for mental illnesses?
+
+## Context: 
+According to the NIMH, one in five Americans live with a mental illness. This can include both
 mental, behavioral, or emotional disorders. In addition, according to the NIMH data from 2017, among
 the 46.6 million adults with any mental illness, 19.8 million (42.6%) received mental health services in
 the past year. Furthermore, in 2017, the NIMH identified that 4.5% of all U.S. adults experienced a
